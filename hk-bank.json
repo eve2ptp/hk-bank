@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "package_name": [
+        "hk.com.hsbc.hsbchkmobilebanking",
+        "com.hangseng.rbmobile",
+        "com.bochk.app.aos",
+        "com.scb.breezebanking.hk",
+        "com.dbs.hk.iwealthhk",
+        "com.citibank.mobile.hk",
+        "com.mtel.androidbea",
+        "com.MobileTreeApp",
+        "com.publicbank.p2p",
+        "com.outSystems.FubonHKeKYC.prd",
+        "com.chbank.softtoken",
+        "com.icbc.icbcasia",
+        "com.winghang",
+        "com.zhongan.ibank",
+        "welab.bank",
+        "com.mox.app",
+        "com.bochk.bocpay",
+        "com.bea.ccbapp"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "hsbc.com.hk",
+        "hsbc.com",
+        "hangseng.com",
+        "bochk.com",
+        "bochk.com.hk",
+        "sc.com.hk",
+        "sc.com",
+        "dbs.com.hk",
+        "dbs.com",
+        "citibank.com.hk",
+        "citi.com.hk",
+        "citi.com",
+        "hkbea.com",
+        "bea.com.hk",
+        "dahsing.com",
+        "publicbank.com.hk",
+        "fubon.com.hk",
+        "chbank.com",
+        "icbcasia.com",
+        "ocbc.com.hk",
+        "winglungbank.com",
+        "cmbwinglungbank.com",
+        "asia.ccb.com",
+        "ccb.com",
+        "cncbinternational.com",
+        "ncb.com.hk",
+        "shacom.com",
+        "shacombank.com",
+        "bankcomm.com.hk",
+        "bankofchina.com",
+        "za.group",
+        "za.bank",
+        "welab.bank",
+        "welab.com",
+        "livi.com.hk",
+        "mox.com",
+        "moxbank.com",
+        "fusionbank.com",
+        "airstar.com.hk",
+        "livi.com"
+      ]
+    }
+  ]
+}
