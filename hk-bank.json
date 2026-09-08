@@ -21,7 +21,8 @@
         "com.mox.app",
         "com.bochk.bocpay",
         "com.bea.ccbapp",
-        "hk.com.paob.app.enterprise"
+        "hk.com.paob.app.enterprise",
+        "com.airstarbank.mobilebanking"
       ]
     },
     {
@@ -65,6 +66,8 @@
         "moxbank.com",
         "fusionbank.com",
         "airstar.com.hk",
+        "airstarbank.com",
+        "elebank.com",
         "livi.com",
         "paob.com.hk",
         "pingandb.com"
