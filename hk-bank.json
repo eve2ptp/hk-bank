@@ -20,7 +20,8 @@
         "welab.bank",
         "com.mox.app",
         "com.bochk.bocpay",
-        "com.bea.ccbapp"
+        "com.bea.ccbapp",
+        "hk.com.paob.app.enterprise"
       ]
     },
     {
@@ -64,7 +65,9 @@
         "moxbank.com",
         "fusionbank.com",
         "airstar.com.hk",
-        "livi.com"
+        "livi.com",
+        "paob.com.hk",
+        "pingandb.com"
       ]
     }
   ]
